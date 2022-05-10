@@ -49,6 +49,6 @@
         }
 
         .topnav input[type=text]{
-            border: 1px solid #css;
+            border: 1px solid;
         }
     }
